@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.1.1",
+    "libraryName": "my-work-wp",
+    "libraryId": "93451941-fb09-4581-b98a-9e6bb729e03d",
+    "environment": "spo"
+  }
+}

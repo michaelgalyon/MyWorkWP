@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/myWorkWp/MyWorkWpWebPart.js",
+      "manifest": "./src/webparts/myWorkWp/MyWorkWpWebPart.manifest.json",
+      "outputPath": "./dist/my-work-wp.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "myWorkWpStrings": "webparts/myWorkWp/loc/{locale}.js"
+  }
+}

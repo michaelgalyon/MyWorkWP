@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "my-work-wp-client-side-solution",
+    "id": "93451941-fb09-4581-b98a-9e6bb729e03d",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/my-work-wp.sppkg"
+  }
+}
